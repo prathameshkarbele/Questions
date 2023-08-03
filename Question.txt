@@ -1,0 +1,20 @@
+Write a function to find the maximum number in an array.
+Write a function to reverse a string.
+Implement a function to check if a string is a palindrome.
+Write a program to find the factorial of a number.
+Implement a function to check if a number is prime.
+Write a program to remove duplicates from an array.
+Implement a function to check if two strings are anagrams.
+Write a program to sort an array of numbers in ascending order.
+Implement a function to calculate the Fibonacci sequence up to a given number of terms.
+Write a program to find the sum of all numbers in an array.
+Implement a function to capitalize the first letter of each word in a sentence.
+Write a program to count the number of occurrences of each element in an array.
+Implement a function to check if a given year is a leap year.
+Write a program to find the largest and smallest numbers in an array.
+Implement a function to check if a given string is a valid email address.
+Write a program to calculate the area of a triangle given its base and height.
+Implement a function to reverse the order of words in a sentence.
+Write a program to generate a random password of a specified length.
+Implement a function to find the longest word in a sentence.
+Write a program to convert a decimal number to binary.
